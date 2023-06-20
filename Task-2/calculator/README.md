@@ -1,4 +1,4 @@
-#Task 2
+# Task 2
 
 The objective of task 2 was to create a calculator web app using HTML, CSS and JS
 
